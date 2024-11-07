@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning AI and TypeScript<br>🎯 Goals: Today Should Be Better Than Yesterday; Tomorrow Better Than Today.<br>🎲 Fun fact: <br>&nbsp;•️ I am a self-proclaimed instant noodle chef.<br>&nbsp;•️ I'm an amateur photographer who often forgets to focus, but I keep trying for that perfect nature shot!<br>&nbsp;•️ I can speak muitiple languages: Java, C, C++, and Python... just kidding! I actually speak Chinese, English, and French.</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I am currently learning AI and trying to contribute to open-source projects.<br>🎯 Goals: Today Should Be Better Than Yesterday; Tomorrow Better Than Today.<br>🎲 Fun fact: <br>&nbsp;•️ I am a self-proclaimed instant noodle chef.<br>&nbsp;•️ I'm an amateur photographer who often forgets to focus, but I keep trying for that perfect nature shot!<br>&nbsp;•️ I can speak muitiple languages: Java, C, C++, and Python... just kidding! I actually speak Chinese, English, and French.</p>
 
 ###
 
